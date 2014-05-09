@@ -1,14 +1,16 @@
-Parser-
+Parser
 =======
 Problem statement
 
-Input:
+Input
+=====
 
 Given n valid URLs and n skew words. Output: 1) Display, corresponding n titles (Headlines) 2) Based on the occurrence of skew words, create a cluster of web pages
 
 
 
-Output:
+Output
+======
 
 1) URL1 Title1 CLASS A 2) URL2 Title2 CLASS A 3) URL3 Title3 CLASS B
 
